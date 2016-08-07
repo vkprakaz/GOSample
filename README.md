@@ -1,0 +1,2 @@
+# GOSample
+GolangSample
